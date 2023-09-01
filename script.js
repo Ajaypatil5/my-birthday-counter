@@ -3,7 +3,7 @@ const hourEl = document.getElementById('hour');
 const minuteEl = document.getElementById('minute');
 const secondEl = document.getElementById('second');
 
-const newYears = "28 AUG 2023";
+const newYears = "28 AUG 2024";
 
 const newYearCountDown = () =>{
     const newYearsDate = new Date(newYears);
